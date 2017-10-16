@@ -8,6 +8,8 @@ List of documentation here
 
 [External URL link](https://deltek.custhelp.com/)
 
+[Document in Github](UpdateSites.doc)
+
 
 
 
