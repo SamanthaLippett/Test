@@ -2,14 +2,11 @@
 
 List of documentation here
 
-[Design Document](designdoc.md)
+[Text pasted into Github editor](designdoc.md)
 
-[Final Design Document](finaldesigndoc.md)
+[Document uploaded to Github](UpdateSites.docx)
 
-[External URL link](https://deltek.custhelp.com/)
-
-[Document in Github](UpdateSites.docx)
-
+[External URL link to document](https://deltek.custhelp.com/)
 
 
 
