@@ -10,5 +10,5 @@ This could be used to create a central location - direct from Github in which UR
 
 These URL's can be added as below:
 
-www.kona.com
-https://deltek.custhelp.com/
+[Kona](http://www.kona/com)
+[Support Centre](https://deltek.custhelp.com/)
