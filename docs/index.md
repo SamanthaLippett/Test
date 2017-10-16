@@ -1,6 +1,8 @@
-## Welcome to a Test Documentation page
+# Welcome to a Test Extension Documentation page
 
-List of documentation here
+## Available Documents
+
+List of documentation:
 
 [Text pasted into Github editor](designdoc.md)
 
