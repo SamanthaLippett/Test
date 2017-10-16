@@ -6,7 +6,7 @@ List of documentation here
 
 [Final Design Document](finaldesigndoc.md)
 
-[External URL link](https://deltekcusthelp.com)
+[External URL link](https://deltek.custhelp.com/)
 
 
 
